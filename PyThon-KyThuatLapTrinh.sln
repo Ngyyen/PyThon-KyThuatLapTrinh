@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai1.1.8", "Bai1.1.8\Bai1.1.8.pyproj", "{34FF40A0-A808-41F9-9E89-407A8EF79ECD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai1.3.2", "Bai1.3.2\Bai1.3.2.pyproj", "{34D35DAA-5FBE-492C-8E77-A35190828C58}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Bai2.3.3", "Bai2.3.3\Bai2.3.3.pyproj", "{5D5F4268-E53C-4BC4-9F1C-922401FC44E1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc1.3.2-BaiTap6", "Muc1.3.2-BaiTap6\Muc1.3.2-BaiTap6.pyproj", "{9CB51DFC-1D92-4EB7-8662-7E158204B2B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc2.6.3", "Muc2.6.3\Muc2.6.3.pyproj", "{FFE1F63F-1657-4D6C-81A5-FF6BBD2C3AC9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KiemTraMucBiTrung", "KiemTraMucBiTrung\KiemTraMucBiTrung.pyproj", "{EB1F6B05-AFDE-4DB3-8274-BDFC049DDC9E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc3.3.4", "Muc3.3.4\Muc3.3.4.pyproj", "{89A78F93-E4DB-4238-9CC8-15792CCB79F2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc3.5.2", "Muc3.5.2\Muc3.5.2.pyproj", "{8EEB4D91-BFA7-4CE9-A79B-7EB42AF3FBE4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc5.1.3", "Muc5.1.3\Muc5.1.3.pyproj", "{86A97788-540E-43C8-A038-6B6F19DEB175}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc6.1.4", "Muc6.1.4\Muc6.1.4.pyproj", "{206F22C2-DC4A-40D2-A0D1-F8EAD6957BD4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc6.3.4", "Muc6.3.4\Muc6.3.4.pyproj", "{05066890-A78A-4605-BDE4-C9C32D058438}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc6.5.2.1", "Muc6.5.2.1\Muc6.5.2.1.pyproj", "{B07761B6-4EBD-4493-A01D-28BC822540B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc6.5.5.1", "Muc6.5.5.1\Muc6.5.5.1.pyproj", "{0CB86A9D-E72E-4EB3-9238-17B77AD68CC7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc6.7-BaiTap42", "Muc6.7-BaiTap42\Muc6.7-BaiTap42.pyproj", "{0CB9D8D2-BAD4-4F7B-B705-5C1AAB1FC81F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc7.6", "Muc7.6\Muc7.6.pyproj", "{0E237BED-2AE4-4463-9246-DBEFFA77DC46}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Muc7.12", "Muc7.12\Muc7.12.pyproj", "{554FF64F-E807-4A0E-8849-467126B535AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FF40A0-A808-41F9-9E89-407A8EF79ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FF40A0-A808-41F9-9E89-407A8EF79ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D35DAA-5FBE-492C-8E77-A35190828C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D35DAA-5FBE-492C-8E77-A35190828C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5F4268-E53C-4BC4-9F1C-922401FC44E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5F4268-E53C-4BC4-9F1C-922401FC44E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB51DFC-1D92-4EB7-8662-7E158204B2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB51DFC-1D92-4EB7-8662-7E158204B2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE1F63F-1657-4D6C-81A5-FF6BBD2C3AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE1F63F-1657-4D6C-81A5-FF6BBD2C3AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1F6B05-AFDE-4DB3-8274-BDFC049DDC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1F6B05-AFDE-4DB3-8274-BDFC049DDC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A78F93-E4DB-4238-9CC8-15792CCB79F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A78F93-E4DB-4238-9CC8-15792CCB79F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEB4D91-BFA7-4CE9-A79B-7EB42AF3FBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEB4D91-BFA7-4CE9-A79B-7EB42AF3FBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A97788-540E-43C8-A038-6B6F19DEB175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A97788-540E-43C8-A038-6B6F19DEB175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206F22C2-DC4A-40D2-A0D1-F8EAD6957BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206F22C2-DC4A-40D2-A0D1-F8EAD6957BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05066890-A78A-4605-BDE4-C9C32D058438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05066890-A78A-4605-BDE4-C9C32D058438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07761B6-4EBD-4493-A01D-28BC822540B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07761B6-4EBD-4493-A01D-28BC822540B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB86A9D-E72E-4EB3-9238-17B77AD68CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB86A9D-E72E-4EB3-9238-17B77AD68CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB9D8D2-BAD4-4F7B-B705-5C1AAB1FC81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB9D8D2-BAD4-4F7B-B705-5C1AAB1FC81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E237BED-2AE4-4463-9246-DBEFFA77DC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E237BED-2AE4-4463-9246-DBEFFA77DC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554FF64F-E807-4A0E-8849-467126B535AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554FF64F-E807-4A0E-8849-467126B535AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1ADA38A9-A0C1-455F-91B1-2A18E843D100}
+	EndGlobalSection
+EndGlobal
